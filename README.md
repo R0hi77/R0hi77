@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Petersburg</h1>
 <h3 align="center">An aspiring software engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/e8yB8TjZgaoUBpME8">
 
 <p align="left"> <a href="https://twitter.com/yisazuahxvii" target="blank"><img src="https://img.shields.io/twitter/follow/yisazuahxvii?logo=twitter&style=for-the-badge" alt="yisazuahxvii" /></a> </p>
 
